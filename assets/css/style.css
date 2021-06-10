@@ -313,6 +313,7 @@ footer p span{
     .logo img {
         display: block;
         margin: auto;
+        max-width: 120px;
     }
     nav{
         flex-basis: 100%;
