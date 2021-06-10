@@ -353,4 +353,7 @@ footer p span{
     .left{
         text-align: center;
     }
+    .footer p{
+        font-size: 14px;
+    }
 }
