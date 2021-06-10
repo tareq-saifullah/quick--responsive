@@ -341,6 +341,9 @@ footer p span{
         padding: 30px 25px;
         margin: 15px;
     }
+    .project{
+        padding: 0 50px;
+    }
     .project-content {
         margin-bottom: 30px;
     }
